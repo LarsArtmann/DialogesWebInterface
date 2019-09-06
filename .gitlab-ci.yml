@@ -4,6 +4,7 @@ pages:
   stage: deploy
   artifacts:
     paths:
-        - public
+      - public
+  script:
   only:
     - master
