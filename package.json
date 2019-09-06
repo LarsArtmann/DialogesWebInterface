@@ -1,0 +1,18 @@
+{
+  "name": "keyconfig",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "async": "^3.1.0",
+    "cookie-parser": "~1.4.4",
+    "curl": "^0.1.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jquery": "^3.4.1",
+    "jsdom": "^15.1.1"
+  }
+}
