@@ -4,6 +4,6 @@ pages:
   stage: deploy
   artifacts:
     paths:
-    - public
+        - public
   only:
     - master
