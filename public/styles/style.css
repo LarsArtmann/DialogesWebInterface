@@ -21,6 +21,10 @@ body {
     min-height: 100%;
 }
 
+.bot-bar p {
+     margin-top: 20px;
+}
+
 .upper {
     z-index: 100;
 }
